@@ -106,7 +106,7 @@ function App() {
 
         <section className="hero content">
           <span className="eyebrow">COURAGE Token</span>
-          <h1>COURAGE</h1>
+          <h1>$CCDOG</h1>
           <p className="subtext">
             COURAGE Token empowers holders to embrace crypto's journey with confidence—just like the fearless pink dog who stands by his family through every adventure in "Nowhere."
           </p>
