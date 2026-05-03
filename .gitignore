@@ -11,3 +11,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+plan.md
+
+# Unused image assets
+image/*.mp4
+image/*.jpg
+image/*.jpeg
+image/*.glb
+
+unused/
+
+
+
+
